@@ -1,9 +1,10 @@
 # ![logo](src/LINE.png) LINE Js-kicker
 
-Dangerous ⚠ Use it at your own risk !
+請不要在本帳上登入
 
 
-How to run ?
+
+啟動教程
 ------
 - `git clone https://github.com/yinmo-public/Js-kicker`
 - `cd Js-kicker && npm install`
@@ -11,14 +12,5 @@ How to run ?
 - `npm start`
 - `type kickall -> kick all member`
 
-----
-**NOTE & Features** 
-- Don't forget to put your mid in main.js 'myBot'
-- Delete unuseful code 
-- Improve logic
-----
 
-*Fork From* [here](https://github.com/rnjacky777/785)
 
-## Fix and upload by 
-[@author](https://line.me/ti/p/3eamxoks_T)
